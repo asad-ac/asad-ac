@@ -34,11 +34,6 @@
   <img height=150 src="https://github-readme-stats.vercel.app/api?username=asad-ac&theme=dark&rank_icon=github" />
 </a>
   
-<a href="https://github.com/anuraghazra/convoychat">
-  <img height=150 src="https://github-readme-stats.vercel.app/api/top-langs?username=asad-ac&layout=compact&langs_count=8&card_width=320&theme=dark" />
-</a>
-</div>
-
 <!---
 asad-ac/asad-ac is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.

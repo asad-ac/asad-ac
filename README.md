@@ -8,11 +8,11 @@
   </a>
 </h1>
 
-<h1 align=center>
+<h1 align=left>
   Software Engineer 🧑‍💻
 </h1>
 
-<div align=center>
+<div align=left>
   🎓 I'm currently studying Computer Science at Florida International University.
   
   👀 I’m interested in solving problems through code.
@@ -21,17 +21,17 @@
 </div>
 <hr>
 
-<h1 align=center>
+<h1 align=left>
   🔥Stats🔥
 
 
-<div align = center>
+<div align = left>
 <a href="https://git.io/streak-stats">
   <img height=175 src="https://streak-stats.demolab.com/?user=asad-ac&theme=transparent" />
 </a>
 </div>
 
-<div align = center>
+<div align = left>
 <a href="https://github.com/asad-ac/github-readme-stats">
   <img height=200 src="https://github-readme-stats.vercel.app/api?username=asad-ac&theme=transparent&rank_icon=github" />
 </a>

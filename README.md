@@ -14,11 +14,13 @@
 
 <div align=left>
   
-  🎓 I'm studying Computer Science at Florida International University.
+  🎓 I'm studying <b> Computer Science </b> at Florida International University.
   
   😎 I’m interested in solving problems through code.
 
-  🥸 I'm currently learning java, data structures, and system design principles.
+  🥸 I'm currently learning data structures and system design principles.
+
+  🙈 Hobbies include Gaming, Sports, and Music.
 </div>
 <hr>
 

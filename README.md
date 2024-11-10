@@ -1,5 +1,5 @@
 <a>
-  <img align="right" src="https://komarev.com/ghpvc/?username=Ghostellor&color=blue&label=Visitors" />
+  <img align="right" src="https://komarev.com/ghpvc/?username=asad-ac&color=red&label=Visitors" />
 </a>
 
 <h1>
@@ -14,7 +14,7 @@
 
 <div align=center>
   🎓 I'm currently studying Computer Science at Florida International University.
-
+  
   👀 I’m interested in solving problems through code.
 
   🌱 I'm actively learning Data Structures, System Design, And Java.

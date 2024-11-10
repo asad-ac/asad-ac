@@ -18,7 +18,7 @@
   
   😎 I’m interested in solving problems through code.
 
-  🥸 I'm currently learning Data Structures, System Design, And Java.
+  🥸 I'm currently learning java, data structures, and system design principles.
 </div>
 <hr>
 

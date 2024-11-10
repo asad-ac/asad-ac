@@ -11,6 +11,7 @@
 <h1 align=center>
   🧑‍💻Software Engineer🧑‍💻
 </h1>
+
 <div align=center>
   🎓 I'm currently studying Computer Science at Florida International University.
 
@@ -32,6 +33,7 @@
 <a href="https://github.com/asad-ac/github-readme-stats">
   <img height=150 src="https://github-readme-stats.vercel.app/api?username=asad-ac&theme=dark&rank_icon=github" />
 </a>
+  
 <a href="https://github.com/anuraghazra/convoychat">
   <img height=150 src="https://github-readme-stats.vercel.app/api/top-langs?username=asad-ac&layout=compact&langs_count=8&card_width=320&theme=dark" />
 </a>

@@ -25,13 +25,13 @@
 
 <div align = center>
 <a href="https://git.io/streak-stats">
-  <img height=175 src="https://streak-stats.demolab.com/?user=asad-ac&theme=dark" />
+  <img height=175 src="https://streak-stats.demolab.com/?user=asad-ac&theme=transparent" />
 </a>
 </div>
 
 <div align = center>
 <a href="https://github.com/asad-ac/github-readme-stats">
-  <img height=150 src="https://github-readme-stats.vercel.app/api?username=asad-ac&theme=dark&rank_icon=github" />
+  <img height=150 src="https://github-readme-stats.vercel.app/api?username=asad-ac&theme=transparent&rank_icon=github" />
 </a>
   
 <!---

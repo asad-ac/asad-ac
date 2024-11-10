@@ -16,9 +16,9 @@
   
   🎓 I'm currently studying Computer Science at Florida International University.
   
-  👀 I’m interested in solving problems through code.
+  😎 I’m interested in solving problems through code.
 
-  🌱 I'm currently learning Data Structures, System Design, And Java.
+  🥸 I'm currently learning Data Structures, System Design, And Java.
 </div>
 <hr>
 

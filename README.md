@@ -18,9 +18,9 @@
   
   😎 I’m interested in solving problems through code.
 
-  🥸 I'm currently learning data structures and system design principles.
+  <!-- 🥸 I'm currently learning data structures and system design principles. --->
 
-  🙈 Hobbies include Gaming, Sports, and Music.
+  🙈 Hobbies include gaming, sports, and music.
 </div>
 <hr>
 

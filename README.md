@@ -13,6 +13,7 @@
 </h1>
 
 <div align=left>
+  
   🎓 I'm currently studying Computer Science at Florida International University.
   
   👀 I’m interested in solving problems through code.

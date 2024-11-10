@@ -9,7 +9,7 @@
 </h1>
 
 <h1 align=center>
-  🧑‍💻Software Engineer🧑‍💻
+  Software Engineer 🧑‍💻
 </h1>
 
 <div align=center>

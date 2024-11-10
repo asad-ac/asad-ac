@@ -18,6 +18,7 @@
   👀 I’m interested in solving problems through code.
 
   🌱 I'm actively learning Data Structures, System Design, And Java.
+  <hr>
 </div>
 <h1 align=center>
   🔥Stats🔥

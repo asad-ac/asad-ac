@@ -9,7 +9,7 @@
 </h1>
 
 <h1 align=left>
-  Software Engineer 🧑‍💻
+ Fullstack Software Engineer 🧑‍💻
 </h1>
 
 <div align=left>

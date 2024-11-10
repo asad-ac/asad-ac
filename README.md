@@ -33,7 +33,7 @@
 
 <div align = center>
 <a href="https://github.com/asad-ac/github-readme-stats">
-  <img height=150 src="https://github-readme-stats.vercel.app/api?username=asad-ac&theme=transparent&rank_icon=github" />
+  <img height=200 src="https://github-readme-stats.vercel.app/api?username=asad-ac&theme=transparent&rank_icon=github" />
 </a>
   
 <!---

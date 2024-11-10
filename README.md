@@ -19,9 +19,11 @@
 
   🌱 I'm actively learning Data Structures, System Design, And Java.
 </div>
+<hr>
+
 <h1 align=center>
   🔥Stats🔥
-</h1>
+
 
 <div align = center>
 <a href="https://git.io/streak-stats">

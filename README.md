@@ -1,10 +1,11 @@
   <a href="https://git.io/typing-svg">
     <img height=200 align="left" src="https://readme-typing-svg.demolab.com/?lines=Welcome!😄;I'm+Asad+Chaudhry!" />
   </a>
-
+  
 <h1 align=left>
  Fullstack Software Engineer 🧑‍💻
 </h1>
+
 <div align=left>
   
   🚀 Studying Computer Science  @ Florida International University.

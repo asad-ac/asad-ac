@@ -1,5 +1,5 @@
   <a href="https://git.io/typing-svg">
-    <img height=200 align="center" src="https://readme-typing-svg.demolab.com/?lines=Welcome!😄;I'm+Asad+Chaudhry!" />
+    <img height=200 align="left" src="https://readme-typing-svg.demolab.com/?lines=Welcome!😄;I'm+Asad+Chaudhry!" />
   </a>
 </h1>
 
@@ -9,11 +9,13 @@
 
 <div align=left>
   
-  🎓 I'm studying Computer Science  @ Florida International University.
+  🎓 Studying Computer Science  @ Florida International University.
   
-  😎 I’m interested in solving problems through code.
+  😎 Interested in solving problems through code.
 
   🥸 I'm currently learning data structures and system design principles. 
+
+  🫡 I like Chipotle.
 
 </div>
 <hr> </hr>
@@ -36,9 +38,8 @@
 </div>
 
 <hr>
-
-<img align="left" src="https://komarev.com/ghpvc/?username=asad-ac&color=green&label=😀+Profile+views" />
-
+<img align="left" src="https://komarev.com/ghpvc/?username=asad-ac&color=blue&label=😀+Profile+views" />
+</hr>
 
 
 

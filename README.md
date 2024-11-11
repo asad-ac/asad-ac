@@ -1,8 +1,3 @@
-<a>
-  <img align="right" src="https://komarev.com/ghpvc/?username=asad-ac&color=red&label=Visitors" />
-</a>
-
-<h1>
   <a href="https://git.io/typing-svg">
     <img height=200 align="center" src="https://readme-typing-svg.demolab.com/?lines=Welcome!😄;I'm+Asad+Chaudhry!" />
   </a>
@@ -14,17 +9,24 @@
 
 <div align=left>
   
-  🎓 I'm studying <b> Computer Science </b> at Florida International University.
+  🎓 I'm studying Computer Science  @ Florida International University.
   
   😎 I’m interested in solving problems through code.
 
   🥸 I'm currently learning data structures and system design principles. 
 
 </div>
-<hr>
+<hr> </hr>
 
 <h1 align=left>
-  🔥Stats🔥
+  📊 GitHub Stats:
+</h1>
+  
+
+  <div align = left>
+<a href="https://github.com/asad-ac/github-readme-stats">
+  <img height=200 src="https://github-readme-stats.vercel.app/api?username=asad-ac&theme=transparent&rank_icon=github" />
+</a>
 
 
 <div align = left>
@@ -33,10 +35,14 @@
 </a>
 </div>
 
-<div align = left>
-<a href="https://github.com/asad-ac/github-readme-stats">
-  <img height=200 src="https://github-readme-stats.vercel.app/api?username=asad-ac&theme=transparent&rank_icon=github" />
-</a>
+<hr>
+
+<img align="left" src="https://komarev.com/ghpvc/?username=asad-ac&color=green&label=😀+Profile+views" />
+
+
+
+
+
   
 <!---
 asad-ac/asad-ac is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.

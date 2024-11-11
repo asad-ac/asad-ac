@@ -9,7 +9,7 @@
 
 <div align=left>
   
-  🎓 Studying Computer Science  @ Florida International University.
+  🚀 Studying Computer Science  @ Florida International University.
   
   😎 Interested in solving problems through code.
 

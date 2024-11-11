@@ -16,7 +16,7 @@
   🫡 I like Chipotle.
 
 </div>
-<hr> </hr>
+<h1> </h1>
 
 <h1 align=left>
   📊 GitHub Stats:

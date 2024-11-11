@@ -36,14 +36,6 @@
   <img height=182 src="https://streak-stats.demolab.com/?user=asad-ac&theme=transparent" />
 </a>
 </div>
-
-<hr>
-<img align="left" src="https://komarev.com/ghpvc/?username=asad-ac&color=blue&label=😀+Profile+views" />
-</hr>
-
-
-
-
   
 <!---
 asad-ac/asad-ac is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.

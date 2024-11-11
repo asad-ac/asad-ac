@@ -1,7 +1,7 @@
   <a href="https://git.io/typing-svg">
     <img height=200 align="left" src="https://readme-typing-svg.demolab.com/?lines=Welcome!😄;I'm+Asad+Chaudhry!" />
   </a>
-  
+    
 <h1 align=left>
  Fullstack Software Engineer 🧑‍💻
 </h1>
@@ -17,7 +17,7 @@
   🫡 I like Chipotle.
 
 </div>
-<h1> </h1>
+
 
 <h1 align=left>
   📊 GitHub Stats:

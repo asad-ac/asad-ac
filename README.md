@@ -13,7 +13,7 @@
   
   😎 Interested in solving problems through code.
 
-  🥸 I'm currently learning data structures and system design principles. 
+  🥸 Currently learning data structures and system design principles. 
 
   🫡 I like Chipotle.
 

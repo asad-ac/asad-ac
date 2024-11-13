@@ -10,7 +10,7 @@
   
   🚀 Studying Computer Science  @ Florida International University.
   
-  😎 Interested in solving problems through code and working wth others.
+  😎 Interested in solving problems through code.
 
   🥸 Currently learning data structures and system design principles. 
 

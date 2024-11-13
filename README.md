@@ -14,7 +14,7 @@
 
   🥸 Currently learning data structures and system design principles. 
 
-  🫡 I like Chipotle and the Florida Panthers.
+  🫡 I like Chipotle.
 
   <h1> </h1>
 

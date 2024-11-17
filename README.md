@@ -13,11 +13,7 @@
   😎 Interested in solving problems through code.
 
   🥸 Currently learning data structures and system design principles. 
-
-  🫡 I like Chipotle.
-
   
-
 </div>
 
 <h1 align=left>

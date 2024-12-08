@@ -13,6 +13,8 @@
   😎 Interested in solving problems through code.
 
   🥸 Currently learning data structures and system design principles. 
+
+  😁 I love chipotle and the Florida Panthers.
   
 </div>
 

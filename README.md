@@ -3,7 +3,7 @@
   </a>
   
 <h1 align=left>
- Fullstack Software Engineer 🧑‍💻
+Software Engineer 🧑‍💻
 </h1>
 
 <div align=left>

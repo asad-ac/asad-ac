@@ -1,4 +1,4 @@
-<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=40&duration=3500&pause=1000&vCenter=true&width=435&height=150&lines=Welcome!;I'm+Asad+Chaudhry" alt="Typing SVG" /></a>
+<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=40&pause=1000&vCenter=true&width=435&height=150&lines=Welcome!;I'm+Asad+Chaudhry" alt="Typing SVG" /></a>
   
 <h1 align=left>
 Software Engineer 🧑‍💻

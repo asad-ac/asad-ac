@@ -28,7 +28,7 @@ Software Engineer 🧑‍💻
 
 <div align = left>
 <a href="https://git.io/streak-stats">
-  <img height=182 src="https://streak-stats.demolab.com/?user=asad-ac&theme=transparent">
+  <img height=178 src="https://streak-stats.demolab.com/?user=asad-ac&theme=transparent">
 </a>
 </div>
 

@@ -26,12 +26,12 @@ Software Engineer 🧑‍💻
   
   <div align = left>
 <a href="https://github.com/asad-ac/github-readme-stats">
-  <img height=200 alt="GitGub Stats" src="https://github-readme-stats.vercel.app/api?username=asad-ac&theme=transparent&rank_icon=github" >
+  <img height=200 alt="GitGub stats" src="https://github-readme-stats.vercel.app/api?username=asad-ac&theme=transparent&rank_icon=github" >
 </a>
 
 <div align = left>
 <a href="https://git.io/streak-stats">
-  <img height=178 alt="GitHub Streak" src="https://streak-stats.demolab.com/?user=asad-ac&theme=transparent">
+  <img height=178 alt="GitHub streak stats" src="https://streak-stats.demolab.com/?user=asad-ac&theme=transparent">
 </a>
 </div>
 

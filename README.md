@@ -20,7 +20,7 @@ Software Engineer 🧑‍💻
   
 </div>
 
-<h1 align=left>
+<!-- <h1 align=left>
   📊 GitHub Stats:
 </h1>
   
@@ -33,7 +33,7 @@ Software Engineer 🧑‍💻
 <a href="https://git.io/streak-stats">
   <img height=178 alt="GitHub streak stats" src="https://streak-stats.demolab.com/?user=asad-ac&theme=transparent">
 </a>
-</div>
+</div> -->
 
 
   

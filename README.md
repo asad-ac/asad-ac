@@ -6,7 +6,7 @@
 <h2 align=left> About </h2>
 <div align=left>
 
-My name is **Asad Chaudhry**, and I'm an aspiring software engineer from South Florida. I am currently pursuing a bachelor's degree in Computer Science at Florida International University, where I have gained experience in frontend development, backend development, and collaborative software development. I enjoy working with others to build full-stack applications and impactful projects, so let's connect and create something awesome together.
+My name is **Asad Chaudhry**, and I'm an aspiring software engineer from South Florida. I am currently pursuing a bachelor's degree in Computer Science at Florida International University, where I have gained experience in frontend development, backend development, and collaborative software development. I enjoy working with others to build full-stack applications and impactful projects.
 
 My current focus is strengthening my data structures and algorithms skills while building full-stack applications with React, Node.js, and PostgreSQL. I am seeking an internship or part-time position in software development.
 
